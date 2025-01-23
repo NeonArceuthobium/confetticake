@@ -1,14 +1,18 @@
-# web2starter
+# Confetti Button
 
 ## Why?
 
-*Pre created starter files save time setting up new projects.
+*Learn how to make use of Methods/Functions, Objects, and Events
+*Import libraries to make use of functionality already present on the web
 
 ## How?
 
-Click on that "Use this template" button to create a new repository you absolute G.
+Create on code pen, then import here.
+Credit sources of code you borrow.
+
 
 ## Citations
 
 * [Normalize CSS] (https://necolas.github.io/normalize.css/8.0.1/normalize.css)
 * [Google Fonts] (https://fonts.google.com/)
+* [Confetti JS] (https://confettijs.org/)
