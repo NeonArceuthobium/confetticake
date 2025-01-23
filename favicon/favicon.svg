@@ -1,3 +1,41 @@
-<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M96 10.1611L115.796 74.2232L116.45 76.3375H118.663H183.131L130.848 116.279L129.185 117.549L129.802 119.548L149.694 183.918L97.8212 144.291L96 142.9L94.1788 144.291L42.3061 183.918L62.1975 119.548L62.8154 117.549L61.1524 116.279L8.86889 76.3375H73.3375H75.5504L76.2037 74.2232L96 10.1611Z" fill="#6E6E6E" stroke="#BBBBBB" stroke-width="6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Burst rays -->
+  <g transform="rotate(15, 50, 50)">
+    <path d="M50 50L60 20L65 22L55 50Z" fill="#FF1744" opacity="0.9"/>
+    <path d="M50 50L80 40L82 45L54 52Z" fill="#2979FF" opacity="0.8"/>
+    <path d="M50 50L70 75L65 78L48 55Z" fill="#00E676" opacity="0.9"/>
+    <path d="M50 50L20 60L18 55L46 48Z" fill="#FFD740" opacity="0.8"/>
+  </g>
+  
+  <!-- Dense confetti layer 1 -->
+  <rect x="20" y="25" width="6" height="2" fill="#FF4081" transform="rotate(45, 23, 26)"/>
+  <rect x="30" y="35" width="6" height="2" fill="#7C4DFF" transform="rotate(-30, 33, 36)"/>
+  <rect x="45" y="20" width="6" height="2" fill="#00B0FF" transform="rotate(15, 48, 21)"/>
+  <rect x="60" y="30" width="6" height="2" fill="#FFC400" transform="rotate(-45, 63, 31)"/>
+  <rect x="75" y="45" width="6" height="2" fill="#FF3D00" transform="rotate(60, 78, 46)"/>
+  
+  <!-- Dense confetti layer 2 -->
+  <rect x="25" y="55" width="6" height="2" fill="#1DE9B6" transform="rotate(-15, 28, 56)"/>
+  <rect x="40" y="70" width="6" height="2" fill="#D500F9" transform="rotate(30, 43, 71)"/>
+  <rect x="55" y="65" width="6" height="2" fill="#FF6D00" transform="rotate(-60, 58, 66)"/>
+  <rect x="70" y="60" width="6" height="2" fill="#64DD17" transform="rotate(45, 73, 61)"/>
+  
+  <!-- Circular confetti -->
+  <circle cx="35" cy="40" r="1.5" fill="#FF4081"/>
+  <circle cx="50" cy="35" r="1.5" fill="#00B0FF"/>
+  <circle cx="65" cy="45" r="1.5" fill="#FFC400"/>
+  <circle cx="45" cy="60" r="1.5" fill="#7C4DFF"/>
+  <circle cx="60" cy="55" r="1.5" fill="#FF3D00"/>
+  <circle cx="30" cy="65" r="1.5" fill="#1DE9B6"/>
+  <circle cx="75" cy="35" r="1.5" fill="#D500F9"/>
+  
+  <!-- Diamond confetti -->
+  <path d="M40 45L43 48L40 51L37 48Z" fill="#FF6D00"/>
+  <path d="M55 40L58 43L55 46L52 43Z" fill="#64DD17"/>
+  <path d="M65 65L68 68L65 71L62 68Z" fill="#FF4081"/>
+  <path d="M25 75L28 78L25 81L22 78Z" fill="#00B0FF"/>
+  
+  <!-- Star confetti -->
+  <path d="M45 25L47 28L50 28L48 31L49 34L45 32L41 34L42 31L40 28L43 28Z" fill="#FFD740" transform="rotate(15, 45, 29.5)"/>
+  <path d="M70 50L72 53L75 53L73 56L74 59L70 57L66 59L67 56L65 53L68 53Z" fill="#FF1744" transform="rotate(-30, 70, 54.5)"/>
 </svg>
